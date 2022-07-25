@@ -1,0 +1,236 @@
+[
+    {
+        "dc_name": "CDL",
+        "zone_name": "CDL-AZ1",
+        "apic_host": [
+            {
+                "host_name": "cdl1alfabacn001.net.adp.com",
+                "ip": "10.141.2.6"
+            },
+            {
+                "host_name": "cdl1alfabacn002.net.adp.com",
+                "ip": "10.141.2.7"
+            },
+            {
+                "host_name": "cdl1alfabacn003.net.adp.com",
+                "ip": "10.141.2.8"
+            }
+        ]
+    },
+    {
+        "dc_name": "CDL",
+        "zone_name": "CDL-AZ2",
+        "apic_host": [
+            {
+                "host_name": "cdl1alfabbcn001.net.adp.com",
+                "ip": "10.141.3.6"
+            },
+            {
+                "host_name": "cdl1alfabbcn002.net.adp.com",
+                "ip": "10.141.3.7"
+            },
+            {
+                "host_name": "cdl1alfabbcn003.net.adp.com",
+                "ip": "10.141.3.8"
+            }
+        ]
+    },
+    {
+        "dc_name": "CDL",
+        "zone_name": "CDL-AZ3",
+        "apic_host": [
+            {
+                "host_name": "cdl1alfabccn001.net.adp.com",
+                "ip": "10.141.4.6"
+            },
+            {
+                "host_name": "cdl1alfabccn002.net.adp.com",
+                "ip": "10.141.4.7"
+            },
+            {
+                "host_name": "cdl1alfabccn003.net.adp.com",
+                "ip": "10.141.4.8"
+            }
+        ]
+    },
+    {
+        "dc_name": "DC01",
+        "zone_name": "DC01-AZ1",
+        "apic_host": [
+            {
+                "host_name": "dc02alfabacn001.net.adp.com",
+                "ip": "10.143.2.6"
+            },
+            {
+                "host_name": "dc02alfabacn002.net.adp.com",
+                "ip": "10.143.2.7"
+            },
+            {
+                "host_name": "dc02alfabacn003.net.adp.com",
+                "ip": "10.143.2.8"
+            }
+        ]
+    },
+    {
+        "dc_name": "DC01",
+        "zone_name": "DC01-AZ2",
+        "apic_host": [
+            {
+                "host_name": "cdl1alfabbcn001.net.adp.com",
+                "ip": "10.143.3.6"
+            },
+            {
+                "host_name": "cdl1alfabbcn002.net.adp.com",
+                "ip": "10.143.3.7"
+            },
+            {
+                "host_name": "cdl1alfabbcn003.net.adp.com",
+                "ip": "10.143.3.8"
+            }
+        ]
+    },
+    {
+        "dc_name": "DC01",
+        "zone_name": "DC01-AZ3",
+        "apic_host": [
+            {
+                "host_name": "cdl1alfabccn001.net.adp.com",
+                "ip": "10.143.4.6"
+            },
+            {
+                "host_name": "cdl1alfabccn002.net.adp.com",
+                "ip": "10.143.4.7"
+            },
+            {
+                "host_name": "cdl1alfabccn003.net.adp.com",
+                "ip": "10.143.4.8"
+            }
+        ]
+    },
+    {
+        "dc_name": "DC01",
+        "zone_name": "DC01-DMZ01",
+        "apic_host": [
+            {
+                "host_name": "cdl1alfabccn001.net.adp.com",
+                "ip": "10.143.4.6"
+            },
+            {
+                "host_name": "cdl1alfabccn002.net.adp.com",
+                "ip": "10.143.4.7"
+            },
+            {
+                "host_name": "cdl1alfabccn003.net.adp.com",
+                "ip": "10.143.4.8"
+            }
+        ]
+    },
+    {
+        "dc_name": "DC01",
+        "zone_name": "DC01-DMZ02",
+        "apic_host": [
+            {
+                "host_name": "cdl1alfabccn001.net.adp.com",
+                "ip": "10.143.4.6"
+            },
+            {
+                "host_name": "cdl1alfabccn002.net.adp.com",
+                "ip": "10.143.4.7"
+            },
+            {
+                "host_name": "cdl1alfabccn003.net.adp.com",
+                "ip": "10.143.4.8"
+            }
+        ]
+    },
+    {
+        "dc_name": "DC02",
+        "zone_name": "DC02-AZ1",
+        "apic_host": [
+            {
+                "host_name": "dc02alfabacn001.net.adp.com",
+                "ip": "10.143.2.6"
+            },
+            {
+                "host_name": "dc02alfabacn002.net.adp.com",
+                "ip": "10.143.2.7"
+            },
+            {
+                "host_name": "dc02alfabacn003.net.adp.com",
+                "ip": "10.143.2.8"
+            }
+        ]
+    },
+    {
+        "dc_name": "DC02",
+        "zone_name": "DC02-AZ2",
+        "apic_host": [
+            {
+                "host_name": "cdl1alfabbcn001.net.adp.com",
+                "ip": "10.143.3.6"
+            },
+            {
+                "host_name": "cdl1alfabbcn002.net.adp.com",
+                "ip": "10.143.3.7"
+            },
+            {
+                "host_name": "cdl1alfabbcn003.net.adp.com",
+                "ip": "10.143.3.8"
+            }
+        ]
+    },
+    {
+        "dc_name": "DC02",
+        "zone_name": "DC02-AZ3",
+        "apic_host": [
+            {
+                "host_name": "cdl1alfabccn001.net.adp.com",
+                "ip": "10.143.4.6"
+            },
+            {
+                "host_name": "cdl1alfabccn002.net.adp.com",
+                "ip": "10.143.4.7"
+            },
+            {
+                "host_name": "cdl1alfabccn003.net.adp.com",
+                "ip": "10.143.4.8"
+            }
+        ]
+    },
+    {
+        "dc_name": "DC02",
+        "zone_name": "DC02-DMZ01",
+        "apic_host": [
+            {
+                "host_name": "cdl1alfabccn001.net.adp.com",
+                "ip": "10.143.8.6"
+            },
+            {
+                "host_name": "cdl1alfabccn002.net.adp.com",
+                "ip": "10.143.8.7"
+            },
+            {
+                "host_name": "cdl1alfabccn003.net.adp.com",
+                "ip": "10.143.8.8"
+            }
+        ]
+    },
+    {
+        "dc_name": "DC02",
+        "zone_name": "DC02-DMZ02",
+        "apic_host": [
+            {
+                "host_name": "cdl1alfabccn001.net.adp.com",
+                "ip": "10.143.8.60"
+            },
+            {
+                "host_name": "cdl1alfabccn002.net.adp.com",
+                "ip": "10.143.8.70"
+            },
+            {
+                "host_name": "cdl1alfabccn003.net.adp.com",
+                "ip": "10.143.8.80"
+            }
+        ]
+    }
+]
